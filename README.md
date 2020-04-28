@@ -5,3 +5,6 @@
 * [First aid in cardiac arrest (basic resuscitation) (100%)](https://stepik.org/cert/322247)
 * [Internet safety (100%)](https://stepik.org/cert/322246)
 * [Programming in Python (100%)](https://stepik.org/cert/248453)
+_________________________________________________________________________
+### Sololearn
+* [C++ Tutorial](https://www.sololearn.com/Certificate/1051-5135190/pdf/)
