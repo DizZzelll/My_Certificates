@@ -1,4 +1,4 @@
-# My_Sertificats
+# My_Certificates
 
 ### Stepik.org
 * [Introduction to C++ (100%)](https://stepik.org/cert/326501)
